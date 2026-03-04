@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Link Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple paragraph with a link to an external website. The link uses the `href` attribute to specify the destination URL.</p>
+    
+    <!-- The hyperlink is defined by the <a> tag -->
+    <a href="https://app.onecompiler.com/44ey8czrk_44fcswfux/#self-hosted-go-module-proxy" target="_blank" title="Go to Google's homepage">Click here to visit Google</a>
+    
+    <p>The `target="_blank"` attribute ensures the link opens in a new browser tab or window.</p>
+</body>
+</html>
